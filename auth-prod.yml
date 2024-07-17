@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "1.0"
 
 loans:
-  message: "Welcome to Combine tracking related QA APIs "
+  message: "Welcome to Combine auth related prod APIs "
   contactDetails:
     name: "Oral Berk Arslan - Software Developer"
     email: "berkk.arsln@gmail.com"
